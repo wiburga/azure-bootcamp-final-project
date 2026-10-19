@@ -1,0 +1,36 @@
+[
+  {
+    "dni": "48271635",
+    "full_name": "Valeria Sofía Rojas Mendoza",
+    "age": 34,
+    "gender": "Femenino",
+    "marital_status": "Casada",
+    "children": 1,
+    "monthly_income": 4200.0,
+    "city": "Lima",
+    "credit_score": 742,
+    "purchase_profile": {
+      "recency_days": 12,
+      "frequency_90d": 9,
+      "monetary_90d": 860.0,
+      "interests": ["viajes", "bienestar", "tecnologia"]
+    }
+  },
+  {
+    "dni": "73915428",
+    "full_name": "Diego Andrés Salazar Paredes",
+    "age": 41,
+    "gender": "Masculino",
+    "marital_status": "Soltero",
+    "children": 0,
+    "monthly_income": 3100.0,
+    "city": "Arequipa",
+    "credit_score": 681,
+    "purchase_profile": {
+      "recency_days": 96,
+      "frequency_90d": 3,
+      "monetary_90d": 245.0,
+      "interests": ["tecnologia", "gastronomia", "deportes"]
+    }
+  }
+]

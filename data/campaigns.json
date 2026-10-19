@@ -1,0 +1,52 @@
+[
+  {
+    "id": "travel-escape",
+    "name": "Escapadas que inspiran",
+    "offer": "15% de descuento en paquetes de viaje seleccionados",
+    "description": "Paquetes de viaje flexibles para descubrir nuevos destinos.",
+    "interests": ["viajes", "aventura", "familia"],
+    "rfm_segments": ["champions", "loyal", "potential"],
+    "starts_at": "2025-01-01",
+    "ends_at": "2027-12-31"
+  },
+  {
+    "id": "wellness-reset",
+    "name": "Tu pausa de bienestar",
+    "offer": "20% de descuento en experiencias de bienestar",
+    "description": "Experiencias de relajacion, cuidado personal y bienestar.",
+    "interests": ["bienestar", "salud", "familia"],
+    "rfm_segments": ["champions", "loyal", "potential"],
+    "starts_at": "2025-01-01",
+    "ends_at": "2027-12-31"
+  },
+  {
+    "id": "tech-upgrade",
+    "name": "Tecnologia para tu dia a dia",
+    "offer": "Hasta 12 cuotas sin intereses en tecnologia seleccionada",
+    "description": "Dispositivos y accesorios para trabajar, aprender y crear.",
+    "interests": ["tecnologia", "productividad", "hogar"],
+    "rfm_segments": ["champions", "loyal", "potential", "at_risk"],
+    "starts_at": "2025-01-01",
+    "ends_at": "2027-12-31"
+  },
+  {
+    "id": "food-discovery",
+    "name": "Sabores por descubrir",
+    "offer": "25% de descuento en restaurantes participantes",
+    "description": "Una seleccion de restaurantes y experiencias gastronomicas.",
+    "interests": ["gastronomia", "bienestar", "familia"],
+    "rfm_segments": ["loyal", "potential", "at_risk"],
+    "starts_at": "2025-01-01",
+    "ends_at": "2027-12-31"
+  },
+  {
+    "id": "active-life",
+    "name": "Activa tu mejor version",
+    "offer": "Un mes de membresia deportiva por cuenta de la casa",
+    "description": "Acceso a actividades deportivas y entrenamiento personalizado.",
+    "interests": ["deportes", "salud", "bienestar"],
+    "rfm_segments": ["champions", "loyal", "potential"],
+    "starts_at": "2025-01-01",
+    "ends_at": "2027-12-31"
+  }
+]

@@ -1,0 +1,9 @@
+azure-ai-projects
+azure-identity
+langchain
+langgraph
+openai
+pydantic
+python-dotenv
+fastapi
+uvicorn[standard]
